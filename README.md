@@ -1,2 +1,4 @@
 # first-demorepo
-This 
+This is my first Git Repository
+<br>
+Author - Amanat Ali
